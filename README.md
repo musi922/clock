@@ -1,1 +1,1 @@
-# didital-clock
+# clock
